@@ -36,7 +36,7 @@ round-avatar: true
 social-network-links:
   email: "asonabend@g.harvard.edu"
 #  facebook: deanattali
-  github: "https://github.com/asonabend"
+  github: asonabend
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -54,7 +54,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?user=3zDjZLMAAAAJ&hl=en"
+  google-scholar: Aaron Sonabend
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
