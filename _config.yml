@@ -36,7 +36,7 @@ round-avatar: true
 social-network-links:
   email: "asonabend@g.harvard.edu"
 #  facebook: deanattali
-  github: asonabend
+  github: "https://github.com/asonabend"#asonabend
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
