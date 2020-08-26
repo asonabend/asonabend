@@ -4,7 +4,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Aarón Sonabend W
 
 # --- List of links in the navigation bar --- #
 
@@ -34,10 +34,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "asonabend@g.harvard.edu"
+#  facebook: deanattali
+  github: https://github.com/asonabend
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -54,7 +54,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=3zDjZLMAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
