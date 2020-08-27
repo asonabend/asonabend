@@ -10,6 +10,7 @@ author: Aarón Sonabend W
 
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -26,7 +27,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "my_pic.png"
+#title-img: "my_pic.png"
 
 
 # --- Footer social media links --- #
