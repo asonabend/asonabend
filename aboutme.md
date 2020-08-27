@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+cover-img: "my_pic.png"
 subtitle: 
 ---
 
