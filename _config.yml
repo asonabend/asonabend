@@ -12,7 +12,7 @@ author: Aarón Sonabend W
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Research: "research"
   Teaching: "teaching"
   CV: "Aaron_Sonabend_CV.pdf"
