@@ -5,7 +5,6 @@ subtitle:
 ---
 
 # Harvard Biostatistics Courses
-## Teaching Assistant
 
 I have worked as a **Teaching Assistant** at the Harvard T.H. Chan School of Public Health for Statistical Learning, Data Science II (Deep Learning course), Introductory Genomics & Bioinformatics for Health Research, Applied Regression Analysis, and Practice and Culminating Experience for Quantitative Methods.  These courses are available for students in several departments at the school, they cover a wide range of applied and theoretical statistics and machine learning content. 
 
