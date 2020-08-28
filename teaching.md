@@ -19,8 +19,8 @@ During the 2019 summer I taught a **[Reinforcement Learning summer school](https
 # Biostatistical course
 
 <div style="clear: both;">
-  <div style="float: left; margin-right .1em;">
-    <img src="neuromex.png" alt="">
+  <div style="float: left; margin-right 1em;">
+    <img src="neuromex.png" width="20" height="10" alt="">
   </div>
   <div>
     <h2>Some title text</h2>
