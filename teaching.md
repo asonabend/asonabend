@@ -18,6 +18,16 @@ During the 2019 summer I taught a **[Reinforcement Learning summer school](https
 
 # Biostatistical course
 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="neuromex.png" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
+
 ![](neuromex.png){: style="float: left; margin-right: 1em;"}
 
 I participated in the [Global Initiative for Neuropsychiatric Genetics Education in Research](https://ginger.sph.harvard.edu/) during 2020 winter, this is a **biostatistical training course** run in collaboration with [NeuroMex](https://ginger.sph.harvard.edu/2020/02/11/ginger-on-site-training-in-campeche-mexico-january-2019/) in Mexico. This course is designed to introduce fundamental statistical and epidemiological concepts to Mexican researchers performing GWAS studies in collaboration with the [Broad institute of MIT & Harvard](https://www.broadinstitute.org/).
