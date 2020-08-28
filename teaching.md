@@ -11,19 +11,7 @@ Additionally, with the help of great collaborators and my advisor Tianxi Cai, I 
 During the 2019 summer I taught a **[Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI)** at the [International Meeting of Artificial Inteligence and Its Applications](https://riiaa.org/), the biggest Artificial Inteligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
 
 
-[Global Initiative for Neuropsychiatric Genetics Education in Research](https://ginger.sph.harvard.edu/)
-
-Biostatistical training course run in collaboration with Addis Ababa University. The goal of this course was to introduce fundamental research skills in potential researchers’ academic careers to support fundamental research curriculum development at the partner institution.
-
-
+I participated in the [Global Initiative for Neuropsychiatric Genetics Education in Research](https://ginger.sph.harvard.edu/) during 2020 winter, this is a **biostatistical training course** run in collaboration with [Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz](http://inprf.gob.mx/) in Mexico. This course is designed to introduce fundamental statistical and epidemiological concepts to Mexican researchers performing GWAS studies in collaboration weith the [Broad institute of MIT & Harvard](https://www.broadinstitute.org/).
 
 I also participated at [Clubes de Ciencia Mexico](https://www.clubesdeciencia.org/) where I paired up with an engineer to teach a course for Mexican undergraduate students on [artificial intelligence and electrical engineering](https://www.clubesdeciencia.mx/estudiantes/clubes2018/)
 
--  aaa
-- aaa
-
-What else do you need?
-
-### My story
-
- **all**  questions.
