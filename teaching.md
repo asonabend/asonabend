@@ -24,7 +24,8 @@ During the 2019 summer I taught a **[Reinforcement Learning summer school](https
   </div>
   <div>
     <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <p>During the 2019 summer I taught a **[Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI)** at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
+</p>
   </div>
 </div>
 
