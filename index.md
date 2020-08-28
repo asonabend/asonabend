@@ -14,11 +14,6 @@ in semi-supervised, non-Markovian settings, 2) unsupervised classication methods
 methods are used for optimizing disease treatments, and phenotyping with electronic health records.
 
 
--  aaa
-- aaa
-
-What else do you need?
-
 ### My story
 
  **all**  questions.
