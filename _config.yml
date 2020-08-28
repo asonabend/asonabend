@@ -1,3 +1,6 @@
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://asonabend.github.io"
+baseurl: ""
 # --- Required options --- #
 
 # Name of website
@@ -58,14 +61,14 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Aaron Sonabend's website 
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
