@@ -17,20 +17,31 @@ Additionally, with the help of great collaborators and my advisor Tianxi Cai, we
 During the 2019 summer I taught a **[Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI)** at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
 
 # Biostatistics and Epidemiology course
-**Instructor**
 <div style="clear: both;">
   <div style="float: right; margin-left 1em;">
     <img src="https://asonabend.github.io/neuromex.png" width="160" height="80" alt="">
   </div>
   <div>
-    <p>I participated in the  <a href="https://ginger.sph.harvard.edu/"> Global Initiative for Neuropsychiatric Genetics Education in Research </a> during 2020 winter, this is a **biostatistical training course** run in collaboration with 
-      <a href="https://ginger.sph.harvard.edu/2020/02/11/ginger-on-site-training-in-campeche-mexico-january-2019/"> NeuroMex </a> in Mexico. This course is designed to introduce fundamental statistical and epidemiological concepts to Mexican researchers performing GWAS studies in collaboration with the <a href="https://www.broadinstitute.org/"> Broad institute of MIT & Harvard </a>.
+    <p>I participated in the  <a href="https://ginger.sph.harvard.edu/"> Global Initiative for Neuropsychiatric Genetics Education in Research </a> during 2020 winter, this is a one-week training course run in collaboration with 
+      <a href="https://ginger.sph.harvard.edu/2020/02/11/ginger-on-site-training-in-campeche-mexico-january-2019/"> NeuroMex </a> in Mexico. The course is designed to introduce fundamental statistical and epidemiological concepts and R programming to clinical researchers performing GWAS studies in collaboration with the <a href="https://www.broadinstitute.org/"> Broad institute of MIT & Harvard </a>.
 </p>
   </div>
 </div>
 
 
-# Artificial Intelligence
 
-I also participated at [Clubes de Ciencia Mexico](https://www.clubesdeciencia.org/) where I paired up with an engineer to teach a course for Mexican undergraduate students on [artificial intelligence and electrical engineering](https://www.clubesdeciencia.mx/estudiantes/clubes2018/)
+# Artificial Intelligence
+<div style="clear: both;">
+  <div style="float: right; margin-left 1em;">
+    <img src="https://asonabend.github.io/imgs/clubes.png" width="160" height="80" alt="">
+  </div>
+  <div>
+    <p>I also participated at 
+      <a href="https://www.clubesdeciencia.org/"> Clubes de Ciencia Mexico </a> where I paired up with an engineer to teach a course for Mexican undergraduate students on 
+      <a href="https://www.clubesdeciencia.mx/estudiantes/clubes2018/"> artificial intelligence and electrical engineering </a>
+</p>
+  </div>
+</div>
+
+
 
