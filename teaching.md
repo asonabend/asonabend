@@ -28,7 +28,7 @@ During the 2019 summer I taught a [Reinforcement Learning summer school](https:/
 # Biostatistics and Epidemiology course
 <div style="clear: both;">
   <div style="float: right; margin-left 1em;">
-    <img src="https://asonabend.github.io/neuromex.png" width="160" height="80" alt="">
+    <img src="https://asonabend.github.io/neuromex.png" width="260" height="180" alt="">
   </div>
   <div>
     <p>I participated in the  <a href="https://ginger.sph.harvard.edu/"> Global Initiative for Neuropsychiatric Genetics Education in Research </a> during 2020 winter, this is a one-week training course run in collaboration with 
@@ -42,7 +42,7 @@ During the 2019 summer I taught a [Reinforcement Learning summer school](https:/
 # Artificial Intelligence
 <div style="clear: both;">
   <div style="float: right; margin-left 1em;">
-    <img src="https://asonabend.github.io/imgs/clubes.png" width="160" height="80" alt="">
+    <img src="https://asonabend.github.io/imgs/clubes.png" width="260" height="180" alt="">
   </div>
   <div>
     <p>I also participated at 
