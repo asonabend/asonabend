@@ -17,10 +17,10 @@ Additionally, with the help of great collaborators and my advisor Tianxi Cai, we
 During the 2019 summer I taught a **[Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI)** at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
 
 # Biostatistics and Epidemiology course
-
+**Instructor**
 <div style="clear: both;">
   <div style="float: right; margin-left 1em;">
-    <img src="https://asonabend.github.io/neuromex.png" width="130" height="65" alt="">
+    <img src="https://asonabend.github.io/neuromex.png" width="160" height="80" alt="">
   </div>
   <div>
     <p>I participated in the  <a href="https://ginger.sph.harvard.edu/"> Global Initiative for Neuropsychiatric Genetics Education in Research </a> during 2020 winter, this is a **biostatistical training course** run in collaboration with 
