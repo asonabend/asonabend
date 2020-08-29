@@ -20,7 +20,7 @@ During the 2019 summer I taught a **[Reinforcement Learning summer school](https
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src=""https://asonabend.github.io/neuromex.png" width="100" height="50" alt="">
+    <img src="https://asonabend.github.io/neuromex.png" width="100" height="50" alt="">
   </div>
   <div>
     <h2>Some title text</h2>
