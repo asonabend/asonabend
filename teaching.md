@@ -19,7 +19,7 @@ During the 2019 summer I taught a **[Reinforcement Learning summer school](https
 # Biostatistics and Epidemiology course
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
+  <div style="float: right; margin-left 1em;">
     <img src="https://asonabend.github.io/neuromex.png" width="130" height="65" alt="">
   </div>
   <div>
