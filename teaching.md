@@ -23,7 +23,7 @@ I have worked as a Teaching Assistant at the Harvard T.H. Chan School of Public 
 
 # Reinforcement Learning summer school
 
-During the 2019 summer I taught a [Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI) at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/es/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
+During the 2019 summer I taught a [Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI) at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/es/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, Q-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
 
 # Biostatistics and Epidemiology course
 <div style="clear: both;">
