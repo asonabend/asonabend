@@ -16,14 +16,14 @@ Additionally, with the help of great collaborators and my advisor Tianxi Cai, we
 
 During the 2019 summer I taught a **[Reinforcement Learning summer school](https://github.com/asonabend/RL_with_OpenAI)** at the [International Meeting of Artificial Intelligence and Its Applications](https://riiaa.org/), the biggest Artificial Intelligence conference in Mexico. We covered the basic concepts of reinforcement learning, $Q$-learning and programmed agents to play [OpenAI](https://gym.openai.com/) basic environments.
 
-# Biostatistical course
+# Biostatistics and Epidemiology course
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src="https://asonabend.github.io/neuromex.png" width="130" height="65" alt="">
   </div>
   <div>
-    <h2>Some title text</h2>
+    <h2>Biostatistics and Epidemiology course</h2>
     <p>I participated in the  <a href="https://ginger.sph.harvard.edu/"> Global Initiative for Neuropsychiatric Genetics Education in Research </a> during 2020 winter, this is a **biostatistical training course** run in collaboration with 
       <a href="https://ginger.sph.harvard.edu/2020/02/11/ginger-on-site-training-in-campeche-mexico-january-2019/"> NeuroMex </a> in Mexico. This course is designed to introduce fundamental statistical and epidemiological concepts to Mexican researchers performing GWAS studies in collaboration with the <a href="https://www.broadinstitute.org/"> Broad institute of MIT & Harvard </a>.
 </p>
