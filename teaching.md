@@ -11,7 +11,7 @@ I have worked as a Teaching Assistant at the Harvard T.H. Chan School of Public 
 # Data Science in Action: Machine Learning for Self-Driving Cars
 <div style="clear: both;">
   <div style="float: right; margin-left 1em;">
-    <img src="https://asonabend.github.io/imgs/datascience.png" width="160" height="80" alt="">
+    <img src="https://asonabend.github.io/imgs/datascience.png" width="260" height="180" alt="">
   </div>
   <div>
     <p>Additionally, with the help of great collaborators and my advisor Tianxi Cai, we created the 
