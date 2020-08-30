@@ -4,9 +4,24 @@ title: Research
 subtitle: 
 ---
 
+# Reinforcement Learning
+
+I'm interested in developing reinforcement learning (RL) methods that can adapt to challenging real-data settings such as healthcare. In particular I'm interested in offline RL for learning optimal policies in environments where direct exploration is expensive or unfeasible, settings when the Markovian assumption is violated such as in the dynamical treament regimen setting, where all medical history is relevant, and when not all rewards are observed which is often the case in electronic health records.
+
 **Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation** ([pdf](https://arxiv.org/abs/2006.13189), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
 
-Offline Reinforcement Learning (RL) is a promising approach for learning optimal policies in environments where direct exploration is expensive or unfeasible. However, the adoption of such policies in practice is often challenging, as they are hard to interpret within the application context, and lack measures of uncertainty for the learned policy value and its decisions. To overcome these issues, we propose an Expert-Supervised RL (ESRL) framework which uses uncertainty quantification for offline policy learning. In particular, we have three contributions: 1) the method can learn safe and optimal policies through hypothesis testing, 2) ESRL allows for different levels of risk aversion within the application context, and finally, 3) we propose a way to interpret ESRL's policy at every state through posterior distributions, and use this framework to compute off-policy value function posteriors. We provide theoretical guarantees for our estimators and regret bounds consistent with Posterior Sampling for RL (PSRL) that account for any risk aversion threshold. We further propose an offline version of PSRL as a special case of ESRL.
+<div style="clear: both;">
+  <div style="float: left; margin-left 1em;">
+    <img src="https://asonabend.github.io/ESRL.png" width="260" height="180" alt="">
+  </div>
+  <div>
+    <p>We develop an RL method which uses uncertainty quantification for offline policy learning. 1) the method can learn safe and optimal policies through hypothesis testing, 2) allows for different levels of risk aversion within the application context, and 3) yields interpretable acxtions at every state through posterior distributions. We also propose using this framework to compute off-policy value function posteriors. We provide theoretical guarantees for our estimators and regret bounds.
+</p>
+  </div>
+</div>
+
+
+
 
 **Automated ICD coding via unsupervised knowledge integration (UNITE)**, International Journal of Medical Informatics ([link](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024)).
 
