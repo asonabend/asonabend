@@ -20,28 +20,27 @@ I'm interested in developing reinforcement learning (RL) methods that can adapt 
   </div>
 </div>
 
+# Phenotyping with Natural Language Processing
 
-
+I'm interested in using NLP for automatic diagnosing, this is a hard problem where usually there is a lack of labels, therefore unsupervisde phenotyping methods such as UNITE are highly attractive and generalize well across ddatasets. Additionally, I'm interested in using natural language to discover patters behind psychiatric behavior. 
 
 **Automated ICD coding via unsupervised knowledge integration (UNITE)**, International Journal of Medical Informatics ([link](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024)).
 
-
-Accurate coding is critical for medical billing and electronic medical record (EMR)-based research. Recent research has been focused on developing supervised methods to automatically assign International Classification of Diseases (ICD) codes from clinical notes. However, supervised approaches rely on ICD code data stored in the hospital EMR system and is subject to bias rising from the practice and coding behavior. Consequently, portability of trained supervised algorithms to external EMR systems may suffer.
-
-Method
-We developed an unsupervised knowledge integration (UNITE) algorithm to automatically assign ICD codes for a specific disease by analyzing clinical narrative notes via semantic relevance assessment. The algorithm was validated using coded ICD data for 6 diseases from Partners HealthCare (PHS) Biobank and Medical Information Mart for Intensive Care (MIMIC-III). We compared the performance of UNITE against penalized logistic regression (LR), topic modeling, and neural network models within each EMR system. We additionally evaluated the portability of UNITE by training at PHS Biobank and validating at MIMIC-III, and vice versa.
-
-Results
-UNITE achieved an averaged AUC of 0.91 at PHS and 0.92 at MIMIC over 6 diseases, comparable to LR and MLP. It had substantially better performance than topic models. In regards to portability, the performance of UNITE was consistent across different EMR systems, superior to LR, topic models and neural network models.
-
-Conclusion
-UNITE accurately assigns ICD code in EMR without requiring human labor, and has major advantages over commonly used machine learning approaches. In addition, the UNITE attained stable performance and high portability across EMRs in different institutions.
+<div style="clear: both;">
+  <div style="float: left; margin-left 1em;">
+    <img src="https://asonabend.github.io/UNITE.png" width="260" height="180" alt="">
+  </div>
+  <div>
+    <p>We developed an unsupervised knowledge integration (UNITE) algorithm to automatically assign phenotype codes for a specific disease by analyzing clinical narrative notes via semantic relevance assessment. UNITE has substantially better performance than unsupervised methods like topic models, and the performance is consistent across different electronic medical records (EMR) systems, which is often an issue with deep learning models. It also requires no human annotation of labels which makes it robust to bias often found within EMR systems.
+</p>
+  </div>
+</div>
 
 
  **Integrating questionnaire measures for transdiagnostic psychiatric phenotyping using word2vec**, PLOS ONE ([link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230663)).
  
  
- Background
+Background
 Recent initiatives in psychiatry emphasize the utility of characterizing psychiatric symptoms in a multidimensional manner. However, strategies for applying standard self-report scales for multiaxial assessment have not been well-studied, particularly where the aim is to support both categorical and dimensional phenotypes.
 
 Methods
