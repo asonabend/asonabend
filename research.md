@@ -11,7 +11,7 @@ I'm interested in developing reinforcement learning (RL) methods that can adapt 
 **Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation** ([pdf](https://arxiv.org/abs/2006.13189), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
 
 <div style="clear: both;">
-  <div style="float: left; margin-left 1em;">
+  <div style="float: right; margin-left 1em;">
     <img src="https://asonabend.github.io/ESRL.png" width="260" height="180" alt="">
   </div>
   <div>
@@ -27,7 +27,7 @@ I'm interested in using NLP for automatic diagnosing, this is a hard problem whe
 **Automated ICD coding via unsupervised knowledge integration (UNITE)**, International Journal of Medical Informatics ([link](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024)).
 
 <div style="clear: both;">
-  <div style="float: left; margin-left 1em;">
+  <div style="float: right; margin-left 1em;">
     <img src="https://asonabend.github.io/UNITE.png" width="260" height="180" alt="">
   </div>
   <div>
