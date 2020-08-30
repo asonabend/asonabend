@@ -39,15 +39,14 @@ I'm interested in using NLP for automatic diagnosing, this is a hard problem whe
 
  **Integrating questionnaire measures for transdiagnostic psychiatric phenotyping using word2vec**, PLOS ONE ([link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230663)).
  
+ <div style="clear: both;">
+  <div style="float: right; margin-left 1em;">
+    <img src="https://asonabend.github.io/clusters.png" width="260" height="180" alt="">
+  </div>
+  <div>
+    <p>We propose a method for applying natural language processing to derive dimensional measures of psychiatric symptoms from questionnaire data. We used 9 symptom measures from cellular biobanking study that enrolled individuals with mood and psychotic disorders, as well as healthy controls. A low-dimensional approximation to the embedding space was used to derive succinct summary of symptom profiles. To validate our embedding-based disease profiles, these were compared to presence or absence of axis I diagnoses derived from structured clinical interview, and to objective neurocognitive testing. We also found that unsupervised clustering of these low-dimensional profiles discriminate well between cases and controls. Our derived symptom measures and estimated Research Domain Criteria scores also associated significantly with performance on neurocognitive tests.
+</p>
+  </div>
+</div>
  
-Background
-Recent initiatives in psychiatry emphasize the utility of characterizing psychiatric symptoms in a multidimensional manner. However, strategies for applying standard self-report scales for multiaxial assessment have not been well-studied, particularly where the aim is to support both categorical and dimensional phenotypes.
 
-Methods
-We propose a method for applying natural language processing to derive dimensional measures of psychiatric symptoms from questionnaire data. We utilized nine self-report symptom measures drawn from a large cellular biobanking study that enrolled individuals with mood and psychotic disorders, as well as healthy controls. To summarize questionnaire results we used word embeddings, a technique to represent words as numeric vectors preserving semantic and syntactic meaning. A low-dimensional approximation to the embedding space was used to derive the proposed succinct summary of symptom profiles. To validate our embedding-based disease profiles, these were compared to presence or absence of axis I diagnoses derived from structured clinical interview, and to objective neurocognitive testing.
-
-Results
-Unsupervised and supervised classification to distinguish presence/absence of axis I disorders using survey-level embeddings remained discriminative, with area under the receiver operating characteristic curve up to 0.85, 95% confidence interval (CI) (0.74,0.91) using Gaussian mixture modeling, and cross-validated area under the receiver operating characteristic curve 0.91, 95% CI (0.88,0.94) using logistic regression. Derived symptom measures and estimated Research Domain Criteria scores also associated significantly with performance on neurocognitive tests.
-
-Conclusions
-Our results support the potential utility of deriving dimensional phenotypic measures in psychiatric illness through the use of word embeddings, while illustrating the challenges in identifying truly orthogonal dimensions.
