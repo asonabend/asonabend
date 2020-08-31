@@ -4,16 +4,14 @@ title: About me
 subtitle: 
 ---
 
+### About Me
+
 I am a PhD candidate at the [Biostatistics Department](https://www.hsph.harvard.edu/biostatistics/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) advised by [Dr. Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/). I'm also part of the [Center for a Learning Health System](https://celehs.netlify.app/).
 
-I am primarily interested in developing reinforcement learning methods to deal with challenging data settings. I have been working on 
+I'm focused on developing reinforcement learning and natural language processing methods which are robust enough for real-world applications and enjoy strong theoretical guarantees. I focus on healthcare and biomedical applications which usually involve challenging and unstructured data such as electronic health records (EHR) which suffers from sampling bias, partially observed rewards, or strong distribution shifts between different hospital sites. My PhD dissertation deals with learning optimal dynamic treatment regimes, in particular I work on the following topics:
 
-My research has been motivated by healthcare, specically sequential settings where outcomes are expensive to measure and
-depend on all previous history, such as chronic diseases. I’m interested in developing theory and methods for: 1) reinforcement learning
-in semi-supervised, non-Markovian settings, 2) unsupervised classication methods using natural language processing. These
-methods are used for optimizing disease treatments, and phenotyping with electronic health records.
+- Semi-supervised reinforcement learning and doubly robust value function estimation
+- Learning domain-specific safe and interpretable policies using hypothesis testing  
+- Using a surrogate convex loss function to optimize dynamic treatment regimes
 
-
-### My story
-
- **all**  questions.
+Other topics I enjoy working on are 1) developing natural language processing methods for phenotyping, automatic diagnosis, and for building a medical knowledge graph from clinical data in settings where labels are not available. This research is centered around the fact that patient label data in EHR data is often unavailable. 
