@@ -4,21 +4,20 @@ title: About me
 subtitle: 
 ---
 
+### About Me
+
 I am a PhD candidate at the [Biostatistics Department](https://www.hsph.harvard.edu/biostatistics/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) advised by [Dr. Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/). I'm also part of the [Center for a Learning Health System](https://celehs.netlify.app/).
 
-I am primarily interested in developing reinforcement learning methods to deal with challenging data settings. I have been working on 
+I'm focused on developing reinforcement learning and natural language processing methods for real-world applications which have theoretical guarantees. I focus on healthcare and biomedical applications which usually involve partially observed rewards, the need for learning interpretable and safe offline policies. In particular my PhD dissertation deals with the optimizing dynamic treatment regimes in the following topics:
 
-My research has been motivated by healthcare, specically sequential settings where outcomes are expensive to measure and
-depend on all previous history, such as chronic diseases. I’m interested in developing theory and methods for: 1) reinforcement learning
-in semi-supervised, non-Markovian settings, 2) unsupervised classication methods using natural language processing. These
-methods are used for optimizing disease treatments, and phenotyping with electronic health records.
+- Semi-supervised reinforcement learning and doibly robust value function estimation for 
+- Learning domain-specific safe and interpretable policies using hypothesis testing  
+- Using a surrogate convex loss function to optimize dynamic treatment regimes
+
+I'm also highly interested in using natural language processing methods for phenotyping and automatic diagnosis in settings where labels are not available for training.
 
 
--  aaa
-- aaa
 
-What else do you need?
+### Bio
 
-### My story
-
- **all**  questions.
+I grew up in Mexico City where I 
