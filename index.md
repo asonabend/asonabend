@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About me
+title: Aaron Sonabend
 subtitle: 
 ---
 
