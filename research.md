@@ -8,7 +8,7 @@ subtitle: Selected Papers
 
 I'm interested in developing reinforcement learning (RL) methods that can adapt to challenging real-data settings such as healthcare. In particular I'm interested in offline RL for learning optimal policies in environments where direct exploration is expensive or unfeasible, settings when the Markovian assumption is violated such as in the dynamical treament regimen setting, where all medical history is relevant, and when not all rewards are observed which is often the case in electronic health records.
 
-<u>Aaron Sonabend W.</u>, Junwei Lu, Leo A. Celi, Tianxi Cai, Peter Szolovits. (2020). **Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation**, NeurIPS 2020([pdf](https://papers.nips.cc/paper/2020/file/daf642455364613e2120c636b5a1f9c7-Paper.pdf), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
+<u>Aaron Sonabend W.</u>, Junwei Lu, Leo A. Celi, Tianxi Cai, Peter Szolovits. (2020). **Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation**, NeurIPS 2020. ([pdf](https://papers.nips.cc/paper/2020/file/daf642455364613e2120c636b5a1f9c7-Paper.pdf), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
