@@ -21,8 +21,6 @@ I'm interested in developing reinforcement learning (RL) methods that can adapt 
   </div>
 </div>
 
-
-
 <u>Aaron Sonabend W.</u>, Nilanjana Laha, Rajarshi Mukherjee, Tianxi Cai. (2020). **Semi-Supervised Off Policy Reinforcement Learning**. ([pdf](https://arxiv.org/abs/2012.04809).
 
 <div style="clear: both;">
