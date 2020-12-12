@@ -88,7 +88,7 @@ Public Health Workshop, NeurIPS 2020.](https://sites.google.com/nyu.edu/mlph2020
  
  <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
-    <img src="https://asonabend.github.io/imgs/clusters.png" width="130" height="90" alt="">
+    <img src="https://asonabend.github.io/imgs/fBKMR.png" width="130" height="90" alt="">
   </div>
   <div>
     <p>We come up with a divide-and-conquer semiparametric Bayesian inference algorithm to learn flexible models for the impact of pollution on public health. The relationship between health outcomes and multiple pollutants is highly complex and needs large data sets to be measured. On the other hand most Bayesian methodology used in this context is prohibitively slow with large samples. We extend a semi-parametric Gaussian process regression framework to scale to large data sets. We assume a Gaussian semi-paramteric relationship of the health ooutcomes, pollutants and confounders. We propose a sample-splitting approach to learn the Gaussian process for the health outcome-pollutant relationship for which we obtain a nonparametric convergence rate. 
