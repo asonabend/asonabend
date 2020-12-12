@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aarón Sonabend
+title: Aaron Sonabend W
 subtitle: 
 ---
 
