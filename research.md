@@ -31,6 +31,8 @@ I'm interested in developing reinforcement learning (RL) methods that can adapt 
   <div>
     <p>A common challenge with EHR data is that health-outcome information is often not well coded but rather embedded in clinical notes. Extracting precise outcome information often requires manual chart review, which is a resource intensive task. This translates into only having available small well-annotated cohorts. We develop a semi-supervised learning (SSL) approach that can efficiently leverage a small-sized labeled data with true outcome observed, and a large-sized unlabeled data with outcome surrogates observed. These surrogates are terms correlated to the outcome which can be extracted quickly from the clinical notes using NLP tools. 
       
+      
+  
 In order to do this, we propose a theoretically justified SSL approach to Q-learning, and develop a robust and efficient SSL approach to estimating the value function, defined as the expected counterfactual outcome under the optimal sequential treatment regime (STR). We provide theoretical results to understand when and to what degree efficiency can be gained from our procedure, which in the worst case is as efficient as using only labeled data. Our approach is imputation based, and it is robust to miss-specification of our imputation models. Further, we provide a doubly robust value function estimator for the derived STR which is asymptotically normal. If either the Q-functions or the propensity score models are correctly specified, our estimator is root n-consistent for the true counterfactual value. We use our method to find the optimal STR for inflammatory bowel disease. 
 </p>
   </div>
