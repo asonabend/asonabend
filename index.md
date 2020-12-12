@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Aarón Sonabend
+title: Aaron Sonabend W
 subtitle: About me
 ---
 
