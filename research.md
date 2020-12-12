@@ -38,6 +38,20 @@ In order to do this, we propose a theoretically justified SSL approach to Q-lear
   </div>
 </div>
 
+Nilanjana Laha, <u>Aaron Sonabend W.</u>, Rajarshi Mukherjee, Tianxi Cai. (2020). **Surrogate loss function for learning STRs**. (Work in progress).
+
+<div style="clear: both;">
+  <div style="float: left; margin-left 1em;">
+    <img src="https://asonabend.github.io/imgs/SSL.png" width="130" height="90" alt="">
+
+  </div>
+  <div>
+    <p>Offline RL methods seek to find the policy which maximizes the counterfactual value function. For example, with a binary action space $\mathcal{A}=\{-1,1\}$ one can write $V(\pi)=\Ebb\left[\sum_t\gamma^tR_tI\{A_t=\pi(S_t)\}\right]$. Direct optimization of such value is challenging however, as the function is non-smooth and discontinuous. This problem is often addressed through indirect methods such as $Q$-learning, which rely on correct specification of the conditional mean model. An alternative in the single time-point case is to recast the value optimization into a classification problem; propose a decision function $f:\mathcal{S}\mapsto\mathbb{R}$; then use a smooth, concave surrogate value function $\psi$ to approximate the value of interest $V_\psi(\pi)=\Ebb\left[R\psi\{Af(S)\}\right]$ and set $\pi(S)=sign\{f(S)\}$. This surrogate allows us to directly maximize a nonparametric estimator of the objective $V_\psi(\pi)$ over a large class of functions $f$. Surrogates that satisfy simple conditions have been shown to be Fisher consistent. Interestingly, when generalizing to multiple time-points, concave surrogate functions are not Fisher consistent. In \cite{surrogate} we explore this problem, illustrate why a simple concave generalization fails, and propose a class of smooth surrogate functions which achieve Fisher consistency. We derive regret bounds for the optimal STR under this class of surrogates, when using neural networks or wavelets to learn $f$. With the proposed smooth surrogates, our approach scales with sample size as opposed to alternative approaches that, similar to support vector machines, optimize in the dual space. This is an important characteristic of these methods as they allow us to exploit the large size of EHR data. 
+
+</p>
+  </div>
+</div>
+
 # Phenotyping with Natural Language Processing
 
 I'm interested in using NLP for automatic diagnosing, this is a hard problem where usually there is a lack of labels, therefore unsupervisde phenotyping methods such as UNITE are highly attractive and generalize well across ddatasets. Additionally, I'm interested in using natural language to discover patters behind psychiatric behavior. 
