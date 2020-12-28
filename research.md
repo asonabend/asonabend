@@ -69,7 +69,7 @@ I'm interested in using NLP for automatic diagnosing, this is a hard problem whe
 </div>
 
 
-**Integrating questionnaire measures for transdiagnostic psychiatric phenotyping using _word2vec_**,  <u>Aaron Sonabend W.</u>, Amelia M. Pellegrini, Stephanie Chan, Hannah E. Brown, James N. Rosenquist, Pieter J. Vuijk, Alysa E. Doyle, Roy H. Perlis , Tianxi Cai. (2020). [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230663).
+**Integrating questionnaire measures for transdiagnostic psychiatric phenotyping using _word2vec_**,  <u>Aaron Sonabend W.</u>, Amelia M. Pellegrini, Stephanie Chan, Hannah E. Brown, James N. Rosenquist, Pieter J. Vuijk, Alysa E. Doyle, Roy H. Perlis , Tianxi Cai. [PLOS ONE, 2020](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230663).
  
  <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
