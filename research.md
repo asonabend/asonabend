@@ -56,7 +56,7 @@ In order to do this, we propose a theoretically justified SSL approach to Q-lear
 
 I'm interested in using NLP for automatic diagnosing, this is a hard problem where usually there is a lack of labels, therefore unsupervisde phenotyping methods such as UNITE are highly attractive and generalize well across ddatasets. Additionally, I'm interested in using natural language to discover patters behind psychiatric behavior. 
 
-**Automated ICD coding via unsupervised knowledge integration (UNITE)**, <u>Aaron Sonabend W.</u>, Winston Cai, Yuri Ahuja, Ashwin Ananthakrishnan, Zongqi Xia, Sheng Yu, Chuan Hong. [International Journal of Medical Informatics](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024), 2020.
+**Automated ICD coding via unsupervised knowledge integration (UNITE)**, <u>Aaron Sonabend W.</u>, Winston Cai, Yuri Ahuja, Ashwin Ananthakrishnan, Zongqi Xia, Sheng Yu, Chuan Hong. [International Journal of Medical Informatics, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024)
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
