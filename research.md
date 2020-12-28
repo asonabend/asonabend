@@ -8,7 +8,7 @@ subtitle: Selected Papers
 
 I'm interested in developing reinforcement learning (RL) methods that can adapt to challenging real-data settings such as healthcare. In particular I'm interested in offline RL for learning optimal policies in environments where direct exploration is expensive or unfeasible, settings when the Markovian assumption is violated such as in the dynamical treament regimen setting, where all medical history is relevant, and when not all rewards are observed which is often the case in electronic health records.
 
-**Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation**, <u>Aaron Sonabend W.</u>, Junwei Lu, Leo A. Celi, Tianxi Cai, Peter Szolovits. (2020). NeurIPS 2020. ([pdf](https://papers.nips.cc/paper/2020/file/daf642455364613e2120c636b5a1f9c7-Paper.pdf), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
+**Expert-Supervised Reinforcement Learning for Offline Policy Learning and Evaluation**, <u>Aaron Sonabend W.</u>, Junwei Lu, Leo A. Celi, Tianxi Cai, Peter Szolovits. NeurIPS 2020. ([pdf](https://papers.nips.cc/paper/2020/file/daf642455364613e2120c636b5a1f9c7-Paper.pdf), [code](https://github.com/asonabend/ESRL), [video](https://www.youtube.com/watch?v=2f9h1kjfdCM&t=15s)).
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
@@ -21,7 +21,7 @@ I'm interested in developing reinforcement learning (RL) methods that can adapt 
   </div>
 </div>
 
-**Semi-Supervised Off Policy Reinforcement Learning**, <u>Aaron Sonabend W.</u>, Nilanjana Laha, Rajarshi Mukherjee, Tianxi Cai. (2020). ([pdf](https://arxiv.org/abs/2012.04809)).
+**Semi-Supervised Off Policy Reinforcement Learning**, <u>Aaron Sonabend W.</u>, Nilanjana Laha, Rajarshi Mukherjee, Tianxi Cai. ([pdf](https://arxiv.org/abs/2012.04809), 2020).
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
@@ -38,7 +38,7 @@ In order to do this, we propose a theoretically justified SSL approach to Q-lear
   </div>
 </div>
 
-**Surrogate loss function for learning STRs**, Nilanjana Laha, <u>Aaron Sonabend W.</u>, Rajarshi Mukherjee, Tianxi Cai. (2020). (Work in progress).
+**Surrogate loss function for learning STRs**, Nilanjana Laha, <u>Aaron Sonabend W.</u>, Rajarshi Mukherjee, Tianxi Cai. (Work in progress).
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
@@ -56,7 +56,7 @@ In order to do this, we propose a theoretically justified SSL approach to Q-lear
 
 I'm interested in using NLP for automatic diagnosing, this is a hard problem where usually there is a lack of labels, therefore unsupervisde phenotyping methods such as UNITE are highly attractive and generalize well across ddatasets. Additionally, I'm interested in using natural language to discover patters behind psychiatric behavior. 
 
-**Automated ICD coding via unsupervised knowledge integration (UNITE)**, <u>Aaron Sonabend W.</u>, Winston Cai, Yuri Ahuja, Ashwin Ananthakrishnan, Zongqi Xia, Sheng Yu, Chuan Hong. (2020). [International Journal of Medical Informatics](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024).
+**Automated ICD coding via unsupervised knowledge integration (UNITE)**, <u>Aaron Sonabend W.</u>, Winston Cai, Yuri Ahuja, Ashwin Ananthakrishnan, Zongqi Xia, Sheng Yu, Chuan Hong. [International Journal of Medical Informatics](https://www.sciencedirect.com/science/article/abs/pii/S1386505619313024), 2020.
 
 <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
@@ -84,7 +84,7 @@ I'm interested in using NLP for automatic diagnosing, this is a hard problem whe
 ## Scalable semiparametric Bayesian inference
 
 **Scalable Gaussian Process Regression Via Median Posterior Inference for Estimating Multi-Pollutant Mixture Health Effects**, <u>Aaron Sonabend W.</u>, Jiangshan Zhang, Joel Schwartz, Brent Coull, Junwei Lu. [Machine Learning in 
-Public Health Workshop, NeurIPS 2020.](https://sites.google.com/nyu.edu/mlph2020/speakers?authuser=0).
+Public Health Workshop, NeurIPS 2020.](https://sites.google.com/nyu.edu/mlph2020/speakers?authuser=0)
  
  <div style="clear: both;">
   <div style="float: left; margin-left 1em;">
